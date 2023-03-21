@@ -1,1 +1,0 @@
-# rjs12-practice2
